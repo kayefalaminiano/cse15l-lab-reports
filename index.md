@@ -2,7 +2,7 @@
 
 ## Part 1: How to Install Visual Studio Code
 
-Go to the Visual Studio Code website, [Link](https://code.visualstudio.com), and follow the directions provided in order to download and install the application onto your device
+Go to the Visual Studio Code website, [https://code.visualstudio.com](https://code.visualstudio.com), and follow the directions provided in order to download and install the application onto your device
 
 When installed, you should be able to open up a window that will look like this: 
 
@@ -18,7 +18,7 @@ Today, we will see how to use VSCode/terminal to connect to a remote computer ov
 
 **Note:** if you're working on Windows, you will need to instal `git` for Windows, which comes with useful tools that we will be using in this course.
 
-Here is the link to install `git` for Windows: [Link](https://gitforwindows.org).
+Here is the link to install `git` for Windows: [https://gitforwindows.org](https://gitforwindows.org).
 
 Once installed, open a new terminal in VSCode by using either Ctrl/Command-+ or by clicking through the menu options. There, we will be using your newly-installed `git bash`.
 
