@@ -101,5 +101,5 @@ Initially, when we tried to use the `reverseInPlace()` method, we see that the o
 ---
 ## Part 3: Recap
 
-Something that I did not know before was creating web servers! It was quite confusing to navigate around in the beginning, but as I got to better understand how the code works, I was able to play around and create other search engines that have multiple functionalities :D! 
+Something that I did not know before was creating web servers! It was quite confusing to navigate around in the beginning, but as I got to better understand how the code works, I was able to play around and create other search engines that have multiple functionalities. This also helped deepen my understanding and knowledge in regards to queries, paths, and more!
 
