@@ -5,6 +5,7 @@ Today, I will be using the `find <<directory-path>>` command! `find` takes a dir
 For example, during lab, we utilzed `find` and had `./written_2` as our argument in order to find all the files located in that directory path. 
 
 Here's what it would look like:
+
 ![Image](find_written.png)
 
 Our output when doing `find written_2/` produces this super long list of all the files that are stored in that directory path!
