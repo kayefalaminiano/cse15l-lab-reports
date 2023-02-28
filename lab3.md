@@ -30,7 +30,7 @@ The generated output for this command is:
 
 `written_2/travel_guides/berlitz1/HandRHawaii.txt`
 
-Here, we are trying to find where the file `HandRHawaii.txt` in the `written_2` directory is. When doing so, the output tell us the location of the file, with it being in the `berlitz1`, which is located in the `travel_guides` subdirectory
+Here, we are trying to find where the file `HandRHawaii.txt` in the `written_2` directory is. When doing so, the output tell us the location of the file, with it being in the `berlitz1`, which is located in the `travel_guides` subdirectory.
 
 Another way is:
 
@@ -243,7 +243,6 @@ One way of using it can be:
 Which generates the following output:
 
 ```
-written_2/
 written_2/travel_guides/berlitz2
 written_2/travel_guides/berlitz2/Algarve-History.txt
 written_2/travel_guides/berlitz2/Algarve-Intro.txt
