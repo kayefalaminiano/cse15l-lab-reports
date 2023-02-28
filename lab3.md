@@ -58,7 +58,7 @@ This command-line option was found using ChatGPT!
 - `c` charcter devices
 - `b` block devices
 - `p` named pipes
-- `s` sockets!
+- `s` sockets
 
 This option can be quite useful when it comes to situations where we need to find a file of a certain type, so this really helps us narrow down and easily find what we need!
 
